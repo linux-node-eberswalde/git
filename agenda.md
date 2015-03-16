@@ -42,3 +42,5 @@ Anwendungen
 - Code
 - Bücher
 - Abschlussarbeiten (redigieren)
+- dotfiles --> example .vim
+- backups --> clone bare
