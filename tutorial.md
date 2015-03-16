@@ -117,6 +117,9 @@ oder
 
 ## 7 Git Konfiguration
 
+    ~/.gitconfig
+    ~/.gitignore (auf Repository Ebene)
+
 Begriffe
 ====================
 - Repository

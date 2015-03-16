@@ -36,6 +36,7 @@ Guides
 - deutsch: http://rogerdudler.github.io/git-guide/index.de.html
 - deutsch slide: http://www.slideshare.net/ephigenia1/git-praktische-einfhrung-13308756
 - deutsch slide extended: http://www.slideshare.net/kogakure/sei-kein-bldmann-und-nimm-git-1830449?related=1
+- clone local: http://www.thehorrors.org.uk/snippets/git-local-filesystem-remotes/
 
 Anwendungen
 ====================
